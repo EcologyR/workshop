@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/EcologyR/workshop/codigo-de-conducta.html</loc>
+    <lastmod>2023-01-03T23:35:01.681Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/EcologyR/workshop/schedule.html</loc>
-    <lastmod>2023-01-03T23:26:30.789Z</lastmod>
+    <lastmod>2023-01-03T23:35:02.305Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/materials.html</loc>
-    <lastmod>2023-01-03T23:26:32.541Z</lastmod>
+    <lastmod>2023-01-03T23:35:02.581Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/index.html</loc>
-    <lastmod>2023-01-03T23:26:32.893Z</lastmod>
+    <lastmod>2023-01-03T23:35:02.857Z</lastmod>
   </url>
 </urlset>
