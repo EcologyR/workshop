@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/EcologyR/workshop
         text: GitHub
     style: docked
     contents:
@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
+      - href: https://github.com/EcologyR/workshop/discussions
         text: Forum
 
 format:
