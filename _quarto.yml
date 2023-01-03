@@ -21,8 +21,10 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
+      - href: codigo-de-conducta.qmd
+        text: Código de conducta
       - href: https://github.com/EcologyR/workshop/discussions
-        text: Forum
+        text: Foro
 
 format:
   html:
