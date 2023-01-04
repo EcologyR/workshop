@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Desarrollo de paquetes de R útiles en ecología - Participantes</title>
+<title>Desarrollo de paquetes de R útiles en ecología – participantes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,20 +62,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-equipo .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-equipo'] = new List('listing-equipo', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Participantes</h1>
+      <h1 class="quarto-secondary-nav-title">Desarrollo de paquetes de R útiles en ecología</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -132,17 +132,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./funcionamiento.html" class="sidebar-item-text sidebar-link">Normas de funcionamiento</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./materials.html" class="sidebar-item-text sidebar-link">Materials</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./participantes.html" class="sidebar-item-text sidebar-link active">Participantes</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./funcionamiento.html" class="sidebar-item-text sidebar-link">Normas de funcionamiento</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -165,30 +160,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title d-none d-lg-block">Participantes</h1>
-</div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div id="listing-equipo" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1672796657805" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1672848129953" data-listing-reading-time-sort="0.005">
 <a href="./equipo/FRS.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -199,13 +175,18 @@ ul.task-list li input[type="checkbox"] {
 Francisco Rodríguez-Sánchez
 </h5>
 <div class="card-subtitle listing-subtitle">
+Universidad de Sevilla
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 Organizador
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1672796657805" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1672848129953" data-listing-reading-time-sort="0.005">
 <a href="./equipo/Nacho.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -216,13 +197,18 @@ Organizador
 Ignasi Bartomeus
 </h5>
 <div class="card-subtitle listing-subtitle">
-Colaborador
+EBD-CSIC
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1672796657805" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1672848129953" data-listing-reading-time-sort="0.005">
 <a href="./equipo/Irene.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -233,13 +219,18 @@ Colaborador
 Irene Mendoza
 </h5>
 <div class="card-subtitle listing-subtitle">
-Colaboradora
+EBD-CSIC
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1672796657805" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1672848129957" data-listing-reading-time-sort="0.005">
 <a href="./equipo/Nestor.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -250,13 +241,18 @@ Colaboradora
 Néstor Pérez-Méndez
 </h5>
 <div class="card-subtitle listing-subtitle">
-Colaborador
+IRTA
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1672796657805" data-listing-reading-time-sort="0.005">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1672848129953" data-listing-reading-time-sort="0.005">
 <a href="./equipo/Julen.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -267,7 +263,12 @@ Colaborador
 Julen Astigarraga
 </h5>
 <div class="card-subtitle listing-subtitle">
-Colaborador
+Universidad de Alcalá de Henares
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
@@ -277,7 +278,12 @@ Colaborador
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
