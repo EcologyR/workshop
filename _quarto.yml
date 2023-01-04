@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Desarrollo de paquetes de R útiles en ecología"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -17,10 +17,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: schedule.qmd
-        text: Schedule
+      - href: funcionamiento.qmd
       - href: materials.qmd
         text: Materials
+      - href: participantes.qmd
       - href: codigo-de-conducta.qmd
         text: Código de conducta
       - href: https://github.com/EcologyR/workshop/discussions

@@ -1,0 +1,47 @@
+---
+title: "Normas de funcionamiento"
+---
+
+## Preparativos
+
+- Cada asistente deberá confirmar su participación mediante [este formulario]() y el pago de la cuota de inscripción (50 euros) a través de la AEET, antes del 30 de enero de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del [código de conducta](codigo-de-conducta.qmd). Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados. 
+
+- El taller se celebrará en dos fases. La primera fase se celebrará del 22 al 24 de marzo de 2023, en un [alojamiento rural](ADD) cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.
+
+- Cada asistente deberá organizar y sufragar los viajes desde su lugar de residencia hasta el lugar de celebración (AÑADIR). Todos los asistentes deberán estar presentes en el [lugar señalado](ADD) el miércoles 22 de marzo a las 14 horas. Alternativamente, la organización dispondrá un autobús que saldrá desde el centro de Sevilla el miércoles 22 de marzo a las 12 horas. Igualmente, tras la finalización del taller, un autobús traerá de vuelta a Sevilla a quienes lo necesiten. La vuelta a Sevilla está prevista para el viernes 24 de marzo a las 17 horas. 
+
+- Los gastos de alojamiento y manutención están cubiertos por la organización. Es posible que sea necesario compartir habitación en algunos casos (siempre en camas individuales). En caso de tener alergias alimentarias o dietas especiales, por favor comunicarlas a los organizadores debidamente.
+
+- Cada asistente deberá traer su propio portátil con la última versión de R instalada.
+
+
+## Formación
+
+El primer día (miércoles 24 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.
+
+En la segunda fase (mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto.
+
+
+## Desarrollo de paquetes
+
+- El primer día se hará una puesta en común de los paquetes propuestos y se hará una selección de los paquetes a desarrollar durante el taller. En principio se formarán grupos de 2-3 personas que colaborarán en el desarrollo de un mismo paquete. Excepcionalmente puede plantearse también el desarrollo individual. 
+
+- Todos los repositorios se alojarán inicialmente en una misma organización de GitHub (<https://github.com/EcologyR>) a la que tendrá acceso el equipo organizador. Idealmente todo el desarrollo se hará en abierto (repositorios públicos). En cualquier caso, todos los repositorios deberán ser públicos el 1 de junio de 2023. 
+
+- Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (*maintainer*). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (aut). Las que realicen contribuciones menores deberán figurar como *contributors* (ver <https://r-pkgs.org/description.html#author-who-are-you>). Además, todos los paquetes deberán incluir a Francisco Rodríguez-Sánchez como *funder* (fnd).
+
+- Todos los paquetes deberán tener una licencia de código abierto compatible con CRAN (ver <https://www.r-project.org/Licenses/>).
+
+- En caso de no finalizarse durante el taller, el desarrollo de los paquetes debe continuarse vía GitHub entre los meses de marzo y mayo de 2023.
+
+
+## Manuscritos
+
+- En la segunda fase del taller (mayo de 2023) se trabajará en la redacción de manuscritos presentando los paquetes desarrollados. Idealmente tanto los paquetes desarrollados como los manuscritos deberán estar completados durante el año 2023.
+
+- Aunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como *preprint* en un repositorio público (e.g. [EcoEvoRxiv](https://ecoevorxiv.org/)). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.
+
+- En todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades
+de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388, Universidad de Sevilla). 
+
+

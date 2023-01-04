@@ -1,13 +1,26 @@
-# quarto-course-website-template
+# Taller: Desarrollo de paquetes de R útiles en ecología
 
-A template for course websites developed with Quarto and hosted on GitHub
+## Objetivos
 
-Only need to edit the source files in Quarto. The website is generated and hosted automatically by GitHub.
+Los **objetivos** de este taller son:
 
-Website: https://pakillo.github.io/quarto-course-website-template
+- Proveer **formación** en herramientas de control de versiones y técnicas de programación colaborativa (git, GitHub, Quarto, etc)
 
-See also https://github.com/rstudio-conf-2022/teach-ds-course-website for a more developed example
+- Desarrollar y publicar **software** (paquetes de R) de utilidad en ecología y medio ambiente
 
-Note: If using this repo as a template for a new repo of yours, remember to check 'Include all branches' when creating the repository (because we will need the gh-pages branch to host the website).
+- Promover la **ciencia abierta y reproducible** en el campo de la ecología
 
-Remember to also update the links to your GitHub repo in [_quarto.yml](https://github.com/Pakillo/quarto-course-website-template/blob/main/_quarto.yml)
+
+## Calendario
+
+**Primera fase**: 22 - 24 marzo 2023
+
+**Segunda fase**: mayo 2023 (fechas por determinar)
+
+
+## Financiación
+
+![](images/logos.png)
+
+Este taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net)), y cuenta con la colaboración de la Asociación Española de Ecología Terrestre ([AEET](https://www.aeet.org)). 
+
