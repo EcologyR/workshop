@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Desarrollo de paquetes de R útiles en ecología - Course Materials</title>
+<title>Desarrollo de paquetes de R útiles en ecología - Normas de funcionamiento</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Course Materials</h1>
+      <h1 class="quarto-secondary-nav-title">Normas de funcionamiento</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -100,12 +100,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./funcionamiento.html" class="sidebar-item-text sidebar-link">Normas de funcionamiento</a>
+  <a href="./funcionamiento.html" class="sidebar-item-text sidebar-link active">Normas de funcionamiento</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./materials.html" class="sidebar-item-text sidebar-link active">Materials</a>
+  <a href="./materials.html" class="sidebar-item-text sidebar-link">Materials</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -128,14 +128,23 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#preparativos" id="toc-preparativos" class="nav-link active" data-scroll-target="#preparativos">Preparativos</a></li>
+  <li><a href="#formación" id="toc-formación" class="nav-link" data-scroll-target="#formación">Formación</a></li>
+  <li><a href="#desarrollo-de-paquetes" id="toc-desarrollo-de-paquetes" class="nav-link" data-scroll-target="#desarrollo-de-paquetes">Desarrollo de paquetes</a></li>
+  <li><a href="#manuscritos" id="toc-manuscritos" class="nav-link" data-scroll-target="#manuscritos">Manuscritos</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Course Materials</h1>
+<h1 class="title d-none d-lg-block">Normas de funcionamiento</h1>
 </div>
 
 
@@ -150,10 +159,41 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><a href="data/">Datasets</a></p>
-<p><a href="slides/">Slides</a></p>
+<section id="preparativos" class="level2">
+<h2 class="anchored" data-anchor-id="preparativos">Preparativos</h2>
+<ul>
+<li><p>Cada asistente deberá confirmar su participación mediante <a href="">este formulario</a> y el pago de la cuota de inscripción (50 euros) a través de la AEET, antes del 30 de enero de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del <a href="./codigo-de-conducta.html">código de conducta</a>. Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados.</p></li>
+<li><p>El taller se celebrará en dos fases. La primera fase se celebrará del 22 al 24 de marzo de 2023, en un <a href="ADD">alojamiento rural</a> cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.</p></li>
+<li><p>Cada asistente deberá organizar y sufragar los viajes desde su lugar de residencia hasta el lugar de celebración (AÑADIR). Todos los asistentes deberán estar presentes en el <a href="ADD">lugar señalado</a> el miércoles 22 de marzo a las 14 horas. Alternativamente, la organización dispondrá un autobús que saldrá desde el centro de Sevilla el miércoles 22 de marzo a las 12 horas. Igualmente, tras la finalización del taller, un autobús traerá de vuelta a Sevilla a quienes lo necesiten. La vuelta a Sevilla está prevista para el viernes 24 de marzo a las 17 horas.</p></li>
+<li><p>Los gastos de alojamiento y manutención están cubiertos por la organización. Es posible que sea necesario compartir habitación en algunos casos (siempre en camas individuales). En caso de tener alergias alimentarias o dietas especiales, por favor comunicarlas a los organizadores debidamente.</p></li>
+<li><p>Cada asistente deberá traer su propio portátil con la última versión de R instalada.</p></li>
+</ul>
+</section>
+<section id="formación" class="level2">
+<h2 class="anchored" data-anchor-id="formación">Formación</h2>
+<p>El primer día (miércoles 24 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git &amp; GitHub para el control de versiones y la programación colaborativa.</p>
+<p>En la segunda fase (mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto.</p>
+</section>
+<section id="desarrollo-de-paquetes" class="level2">
+<h2 class="anchored" data-anchor-id="desarrollo-de-paquetes">Desarrollo de paquetes</h2>
+<ul>
+<li><p>El primer día se hará una puesta en común de los paquetes propuestos y se hará una selección de los paquetes a desarrollar durante el taller. En principio se formarán grupos de 2-3 personas que colaborarán en el desarrollo de un mismo paquete. Excepcionalmente puede plantearse también el desarrollo individual.</p></li>
+<li><p>Todos los repositorios se alojarán inicialmente en una misma organización de GitHub (<a href="https://github.com/EcologyR" class="uri">https://github.com/EcologyR</a>) a la que tendrá acceso el equipo organizador. Idealmente todo el desarrollo se hará en abierto (repositorios públicos). En cualquier caso, todos los repositorios deberán ser públicos el 1 de junio de 2023.</p></li>
+<li><p>Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (<em>maintainer</em>). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (aut). Las que realicen contribuciones menores deberán figurar como <em>contributors</em> (ver <a href="https://r-pkgs.org/description.html#author-who-are-you" class="uri">https://r-pkgs.org/description.html#author-who-are-you</a>). Además, todos los paquetes deberán incluir a Francisco Rodríguez-Sánchez como <em>funder</em> (fnd).</p></li>
+<li><p>Todos los paquetes deberán tener una licencia de código abierto compatible con CRAN (ver <a href="https://www.r-project.org/Licenses/" class="uri">https://www.r-project.org/Licenses/</a>).</p></li>
+<li><p>En caso de no finalizarse durante el taller, el desarrollo de los paquetes debe continuarse vía GitHub entre los meses de marzo y mayo de 2023.</p></li>
+</ul>
+</section>
+<section id="manuscritos" class="level2">
+<h2 class="anchored" data-anchor-id="manuscritos">Manuscritos</h2>
+<ul>
+<li><p>En la segunda fase del taller (mayo de 2023) se trabajará en la redacción de manuscritos presentando los paquetes desarrollados. Idealmente tanto los paquetes desarrollados como los manuscritos deberán estar completados durante el año 2023.</p></li>
+<li><p>Aunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como <em>preprint</em> en un repositorio público (e.g.&nbsp;<a href="https://ecoevorxiv.org/">EcoEvoRxiv</a>). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.</p></li>
+<li><p>En todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388, Universidad de Sevilla).</p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

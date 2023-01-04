@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/EcologyR/workshop/funcionamiento.html</loc>
+    <lastmod>2023-01-04T01:44:33.333Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/EcologyR/workshop/codigo-de-conducta.html</loc>
-    <lastmod>2023-01-03T23:35:01.681Z</lastmod>
+    <lastmod>2023-01-04T01:44:34.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Nestor.html</loc>
+    <lastmod>2023-01-04T01:44:34.461Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Irene.html</loc>
+    <lastmod>2023-01-04T01:44:34.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Nacho.html</loc>
+    <lastmod>2023-01-04T01:44:35.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Julen.html</loc>
+    <lastmod>2023-01-04T01:44:35.497Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/FRS.html</loc>
+    <lastmod>2023-01-04T01:44:35.837Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/schedule.html</loc>
-    <lastmod>2023-01-03T23:35:02.305Z</lastmod>
+    <lastmod>2023-01-04T01:44:36.233Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/materials.html</loc>
-    <lastmod>2023-01-03T23:35:02.581Z</lastmod>
+    <lastmod>2023-01-04T01:44:36.585Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/index.html</loc>
-    <lastmod>2023-01-03T23:35:02.857Z</lastmod>
+    <lastmod>2023-01-04T01:44:36.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/participantes.html</loc>
+    <lastmod>2023-01-04T01:44:37.369Z</lastmod>
   </url>
 </urlset>
