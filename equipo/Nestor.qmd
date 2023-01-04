@@ -1,7 +1,7 @@
 ---
 title: "Néstor Pérez-Méndez"
 sortby: "4"
-subtitle: "Colaborador"
+subtitle: "IRTA"
 image: https://avatars.githubusercontent.com/u/10706959?v=4
 toc: false
 about:

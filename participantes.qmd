@@ -1,13 +1,19 @@
 ---
-title: "Participantes"
+# title: "Participantes"
 listing:
-  contents: "equipo/*.qmd"
-  type: grid
-  image-height: 225px
-  grid-columns: 4
-  sort: sortby
-  fields: [image, title, subtitle]
-  grid-item-align: center
+  - id: equipo
+    contents: "equipo/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 4
+    sort: sortby
+    fields: [image, title, subtitle, author]
+    grid-item-align: center
+    
 ---
+
+:::{#equipo}
+:::
+
 
 

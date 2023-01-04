@@ -1,7 +1,7 @@
 ---
 title: "Julen Astigarraga"
 sortby: "5"
-subtitle: "Colaborador"
+subtitle: "Universidad de Alcalá de Henares"
 image: https://avatars.githubusercontent.com/u/36412735?v=4
 toc: false
 about:

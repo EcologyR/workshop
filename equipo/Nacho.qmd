@@ -1,7 +1,7 @@
 ---
 title: "Ignasi Bartomeus"
 sortby: "2"
-subtitle: "Colaborador"
+subtitle: "EBD-CSIC"
 image: https://avatars.githubusercontent.com/u/2033794?v=4
 toc: false
 about:

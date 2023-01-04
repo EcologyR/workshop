@@ -28,11 +28,11 @@ En la segunda fase (mayo) se impartirá formación sobre escritura de manuscrito
 
 - Todos los repositorios se alojarán inicialmente en una misma organización de GitHub (<https://github.com/EcologyR>) a la que tendrá acceso el equipo organizador. Idealmente todo el desarrollo se hará en abierto (repositorios públicos). En cualquier caso, todos los repositorios deberán ser públicos el 1 de junio de 2023. 
 
-- Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (*maintainer*). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (aut). Las que realicen contribuciones menores deberán figurar como *contributors* (ver <https://r-pkgs.org/description.html#author-who-are-you>). Además, todos los paquetes deberán incluir a Francisco Rodríguez-Sánchez como *funder* (fnd).
+- Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (*maintainer*). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (aut). Las que realicen contribuciones menores deberán figurar como *contributors* (ver <https://r-pkgs.org/description.html#author-who-are-you>). 
 
 - Todos los paquetes deberán tener una licencia de código abierto compatible con CRAN (ver <https://www.r-project.org/Licenses/>).
 
-- En caso de no finalizarse durante el taller, el desarrollo de los paquetes debe continuarse vía GitHub entre los meses de marzo y mayo de 2023.
+- En caso de no finalizarse durante el taller, el desarrollo de los paquetes debe continuarse vía GitHub, preferiblemente entre los meses de marzo y mayo de 2023.
 
 
 ## Manuscritos
@@ -42,6 +42,6 @@ En la segunda fase (mayo) se impartirá formación sobre escritura de manuscrito
 - Aunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como *preprint* en un repositorio público (e.g. [EcoEvoRxiv](https://ecoevorxiv.org/)). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.
 
 - En todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades
-de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388, Universidad de Sevilla). 
+de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla). 
 
 

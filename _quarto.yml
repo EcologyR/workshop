@@ -17,14 +17,15 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: funcionamiento.qmd
-      - href: materials.qmd
-        text: Materials
       - href: participantes.qmd
+        text: Participantes
+      - href: funcionamiento.qmd
       - href: codigo-de-conducta.qmd
         text: Código de conducta
+      - href: recursos.qmd
       - href: https://github.com/EcologyR/workshop/discussions
         text: Foro
+
 
 format:
   html:

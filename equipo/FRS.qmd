@@ -1,7 +1,8 @@
 ---
 title: "Francisco Rodríguez-Sánchez"
 sortby: "1"
-subtitle: "Organizador"
+subtitle: "Universidad de Sevilla"
+author: "Organizador"
 image: https://avatars.githubusercontent.com/u/1597843?v=4
 toc: false
 about:

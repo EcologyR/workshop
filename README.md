@@ -20,7 +20,6 @@ Los **objetivos** de este taller son:
 
 ## Financiación
 
-![](images/logos.png)
-
 Este taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net)), y cuenta con la colaboración de la Asociación Española de Ecología Terrestre ([AEET](https://www.aeet.org)). 
 
+![](images/logos.png)
