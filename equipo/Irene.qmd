@@ -1,0 +1,34 @@
+---
+title: "Irene Mendoza"
+sortby: "3"
+subtitle: "Colaboradora"
+image: https://avatars.githubusercontent.com/u/10706889?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    # - icon: link
+    #   text: website
+    #   href: https://bartomeuslab.com
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=06iY0J0AAAAJ
+    - icon: github
+      text: github
+      href: https://www.github.com/iremendoza
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/phenogirl
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://ecoevo.social/@ibartomeus
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

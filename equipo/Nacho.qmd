@@ -1,0 +1,34 @@
+---
+title: "Ignasi Bartomeus"
+sortby: "2"
+subtitle: "Colaborador"
+image: https://avatars.githubusercontent.com/u/2033794?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://bartomeuslab.com
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=EXdyoWAAAAAJ
+    - icon: github
+      text: github
+      href: https://www.github.com/ibartomeus
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/ibartomeus
+    - icon: mastodon
+      text: mastodon
+      href: https://ecoevo.social/@ibartomeus
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

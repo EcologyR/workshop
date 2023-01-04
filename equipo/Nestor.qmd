@@ -1,0 +1,34 @@
+---
+title: "Néstor Pérez-Méndez"
+sortby: "4"
+subtitle: "Colaborador"
+image: https://avatars.githubusercontent.com/u/10706959?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: http://nperezmendez.weebly.com/
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=9cVCRHcAAAAJ
+    - icon: github
+      text: github
+      href: https://www.github.com/nestorperez
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/NPerezMendez
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://ecoevo.social/@ibartomeus
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+
