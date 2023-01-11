@@ -25,6 +25,6 @@ La celebración de este taller pretende aglutinar una comunidad abierta, formada
   
 Si algún miembro no respeta este código de conducta, puede conllevar la expulsión del taller de forma temporal o permanente. Para comunicar cualquier incumplimiento o incidencia relacionada con este código de conducta, cualquier persona puede ponerse en contacto con Francisco Rodríguez Sánchez (f.rodriguez.sanc@gmail.com), Irene Mendoza (irene.mendoza.sagrera@gmail.com) o Ignasi Bartomeus (nacho.bartomeus@gmail.com), garantizándose la confidencialidad.
 
-
+*Documento adaptado a partir del código de conducta de [ROpenSci](https://ropensci.org/codigo-de-conducta/)*
 
 

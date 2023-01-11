@@ -4,8 +4,6 @@ title: "Desarrollo de paquetes de R útiles en ecología"
 
 ## Objetivos
 
-Los objetivos de este taller son:
-
 - Proveer **formación** en herramientas de control de versiones y técnicas de programación colaborativa (git, GitHub, Quarto, etc)
 
 - Desarrollar y publicar **software** (paquetes de R) de utilidad en ecología y medio ambiente

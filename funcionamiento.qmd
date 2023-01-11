@@ -4,20 +4,20 @@ title: "Normas de funcionamiento"
 
 ## Preparativos
 
-- Cada asistente deberá confirmar su participación mediante [este formulario]() y el pago de la cuota de inscripción (50 euros) a través de la AEET, antes del 30 de enero de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del [código de conducta](codigo-de-conducta.qmd). Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados. 
+- Cada asistente deberá confirmar su participación mediante [este formulario]() y el pago de la **cuota de inscripción** (50 euros) a través de la AEET **antes del 30 de enero** de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del [código de conducta](codigo-de-conducta.qmd). Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados. 
 
-- El taller se celebrará en dos fases. La primera fase se celebrará del 22 al 24 de marzo de 2023, en un [alojamiento rural](ADD) cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.
+- El taller se celebrará en dos fases. La primera fase se celebrará del **22 al 24 de marzo de 2023** en un [alojamiento rural]() cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.
 
-- Cada asistente deberá organizar y sufragar los viajes desde su lugar de residencia hasta el lugar de celebración (AÑADIR). Todos los asistentes deberán estar presentes en el [lugar señalado](ADD) el miércoles 22 de marzo a las 14 horas. Alternativamente, la organización dispondrá un autobús que saldrá desde el centro de Sevilla el miércoles 22 de marzo a las 12 horas. Igualmente, tras la finalización del taller, un autobús traerá de vuelta a Sevilla a quienes lo necesiten. La vuelta a Sevilla está prevista para el viernes 24 de marzo a las 17 horas. 
+- Cada asistente deberá organizar y sufragar los viajes (ida y vuelta) desde su lugar de residencia hasta el lugar de celebración. <!--Todos los asistentes deberán estar presentes en el [lugar señalado](ADD) el miércoles 22 de marzo a las 16 horas. El taller finalizará el viernes 24 después de comer, sobre las 17 h. --> Alternativamente, se organizará un medio de transporte desde el centro de Sevilla (ida y vuelta), para aquellos que lo necesiten. 
 
 - Los gastos de alojamiento y manutención están cubiertos por la organización. Es posible que sea necesario compartir habitación en algunos casos (siempre en camas individuales). En caso de tener alergias alimentarias o dietas especiales, por favor comunicarlas a los organizadores debidamente.
 
-- Cada asistente deberá traer su propio portátil con la última versión de R instalada.
+- Cada asistente deberá traer su propio portátil con conexión wifi y con la última versión de R instalada.
 
 
 ## Formación
 
-El primer día (miércoles 24 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.
+El primer día (miércoles 22 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.
 
 En la segunda fase (mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto.
 

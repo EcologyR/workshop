@@ -20,6 +20,7 @@ website:
       - href: participantes.qmd
         text: Participantes
       - href: funcionamiento.qmd
+        text: Funcionamiento
       - href: codigo-de-conducta.qmd
         text: Código de conducta
       - href: recursos.qmd
