@@ -1,17 +1,59 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Desarrollo de paquetes de R útiles en ecología",
+    "section": "",
+    "text": "Proveer formación en herramientas de control de versiones y técnicas de programación colaborativa (git, GitHub, Quarto, etc)\nDesarrollar y publicar software (paquetes de R) de utilidad en ecología y medio ambiente\nPromover la ciencia abierta y reproducible en el campo de la ecología"
+  },
+  {
+    "objectID": "index.html#calendario",
+    "href": "index.html#calendario",
+    "title": "Desarrollo de paquetes de R útiles en ecología",
+    "section": "Calendario",
+    "text": "Calendario\nPrimera fase: 22 - 24 marzo 2023\nSegunda fase: 10 - 12 mayo 2023"
+  },
+  {
+    "objectID": "index.html#financiación",
+    "href": "index.html#financiación",
+    "title": "Desarrollo de paquetes de R útiles en ecología",
+    "section": "Financiación",
+    "text": "Financiación\nEste taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por Francisco Rodríguez Sánchez y gestionado por la Universidad de Sevilla). La organización del taller cuenta además con la colaboración de la Asociación Española de Ecología Terrestre (AEET)."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+  },
+  {
+    "objectID": "codigo-de-conducta.html",
+    "href": "codigo-de-conducta.html",
+    "title": "Código de conducta",
+    "section": "",
+    "text": "La celebración de este taller pretende aglutinar una comunidad abierta, formada por miembros con un conjunto diverso de habilidades, personalidades y experiencias. Todos los miembros de la comunidad están obligados a seguir este código de conducta, para que la participación en la comunidad sea positiva, segura, inclusiva y exitosa para todos. En términos generales, la participación en esta comunidad debe ser\n\nRespetuosa: Respetamos a los demás, sus opiniones, sus habilidades, sus compromisos y sus esfuerzos. Respetamos los procesos establecidos en la comunidad y trabajamos dentro de ellos. Cuando no estamos de acuerdo, somos educados y respetuosos al plantear nuestros problemas.\nAbierta: los miembros de la comunidad están abiertos a la colaboración. Somos receptivos a los comentarios y críticas constructivas. Fomentamos un entorno en el que todos puedan participar.\nNo toleramos el acoso en ninguna forma, incluyendo:\n\nComentarios ofensivos relacionados con género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión (o falta de ellos), o preferencias tecnológicas\nComentarios no deseados con respecto al estilo de vida de una persona, incluidos los relacionados con la alimentación, la salud, la crianza de los hijos, las drogas o el empleo\nInterrupción sostenida o voluntaria de discusiones, charlas u otros eventos.\nIntimidación deliberada\nInsistencia en la comunicación personal después de las solicitudes de cese.\nFotografía o grabación no deseada\nContacto social inapropiado, como solicitar/asumir niveles inapropiados de intimidad con otros\nContacto físico inapropiado sin consentimiento\nAmenazas de violencia o incitación a la violencia contra cualquier persona\nUso de imágenes, comentarios o chistes sexuales o discriminatorios\nPublicación de información sobre cualquier aspecto de la identidad de una persona sin su consentimiento, excepto cuando sea necesario para proteger a las personas vulnerables\nPublicación de comunicación privada, excepto cuando sea necesario para proteger a las personas vulnerables\n\n\nSi algún miembro no respeta este código de conducta, puede conllevar la expulsión del taller de forma temporal o permanente. Para comunicar cualquier incumplimiento o incidencia relacionada con este código de conducta, cualquier persona puede ponerse en contacto con Francisco Rodríguez Sánchez (f.rodriguez.sanc@gmail.com), Irene Mendoza (irene.mendoza.sagrera@gmail.com) o Ignasi Bartomeus (nacho.bartomeus@gmail.com), garantizándose la confidencialidad.\nDocumento adaptado a partir del código de conducta de ROpenSci"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "Datasets\nSlides"
+  },
+  {
     "objectID": "funcionamiento.html",
     "href": "funcionamiento.html",
     "title": "Normas de funcionamiento",
     "section": "",
-    "text": "Cada asistente deberá confirmar su participación mediante este formulario y el pago de la cuota de inscripción (50 euros) a través de la AEET antes del 30 de enero de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del código de conducta. Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados.\nEl taller se celebrará en dos fases. La primera fase se celebrará del 22 al 24 de marzo de 2023 en un alojamiento rural cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.\nCada asistente deberá organizar y sufragar los viajes (ida y vuelta) desde su lugar de residencia hasta el lugar de celebración.  Alternativamente, se organizará un medio de transporte desde el centro de Sevilla (ida y vuelta), para aquellos que lo necesiten.\nLos gastos de alojamiento y manutención están cubiertos por la organización. Es posible que sea necesario compartir habitación en algunos casos (siempre en camas individuales). En caso de tener alergias alimentarias o dietas especiales, por favor comunicarlas a los organizadores debidamente.\nCada asistente deberá traer su propio portátil con conexión wifi y con la última versión de R instalada."
+    "text": "La inscripción y asistencia al taller implica la aceptación y el cumplimiento del código de conducta. Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados.\nEl taller se celebrará en dos fases. La primera fase se celebrará del 22 al 24 de marzo de 2023 en un alojamiento rural cercano a Sevilla. La segunda fase se celebrará del 10 al 12 de mayo de 2023. La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub. La AEET entregará certificados de asistencia y participación a todos los que lo soliciten.\nCada asistente deberá traer su propio portátil con conexión wifi y con la última versión de R instalada."
   },
   {
     "objectID": "funcionamiento.html#formación",
     "href": "funcionamiento.html#formación",
     "title": "Normas de funcionamiento",
     "section": "Formación",
-    "text": "Formación\nEl primer día (miércoles 22 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.\nEn la segunda fase (mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto."
+    "text": "Formación\n\nEl primer día (miércoles 22 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.\nEn la segunda fase (10-12 mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto."
   },
   {
     "objectID": "funcionamiento.html#desarrollo-de-paquetes",
@@ -28,20 +70,6 @@
     "text": "Manuscritos\n\nEn la segunda fase del taller (mayo de 2023) se trabajará en la redacción de manuscritos presentando los paquetes desarrollados. Idealmente tanto los paquetes desarrollados como los manuscritos deberán estar completados durante el año 2023.\nAunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como preprint en un repositorio público (e.g. EcoEvoRxiv). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.\nEn todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla)."
   },
   {
-    "objectID": "codigo-de-conducta.html",
-    "href": "codigo-de-conducta.html",
-    "title": "Código de conducta",
-    "section": "",
-    "text": "La celebración de este taller pretende aglutinar una comunidad abierta, formada por miembros con un conjunto diverso de habilidades, personalidades y experiencias. Todos los miembros de la comunidad están obligados a seguir este código de conducta, para que la participación en la comunidad sea positiva, segura, inclusiva y exitosa para todos. En términos generales, la participación en esta comunidad debe ser\n\nRespetuosa: Respetamos a los demás, sus opiniones, sus habilidades, sus compromisos y sus esfuerzos. Respetamos los procesos establecidos en la comunidad y trabajamos dentro de ellos. Cuando no estamos de acuerdo, somos educados y respetuosos al plantear nuestros problemas.\nAbierta: los miembros de la comunidad están abiertos a la colaboración. Somos receptivos a los comentarios y críticas constructivas. Fomentamos un entorno en el que todos puedan participar.\nNo toleramos el acoso en ninguna forma, incluyendo:\n\nComentarios ofensivos relacionados con género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión (o falta de ellos), o preferencias tecnológicas\nComentarios no deseados con respecto al estilo de vida de una persona, incluidos los relacionados con la alimentación, la salud, la crianza de los hijos, las drogas o el empleo\nInterrupción sostenida o voluntaria de discusiones, charlas u otros eventos.\nIntimidación deliberada\nInsistencia en la comunicación personal después de las solicitudes de cese.\nFotografía o grabación no deseada\nContacto social inapropiado, como solicitar/asumir niveles inapropiados de intimidad con otros\nContacto físico inapropiado sin consentimiento\nAmenazas de violencia o incitación a la violencia contra cualquier persona\nUso de imágenes, comentarios o chistes sexuales o discriminatorios\nPublicación de información sobre cualquier aspecto de la identidad de una persona sin su consentimiento, excepto cuando sea necesario para proteger a las personas vulnerables\nPublicación de comunicación privada, excepto cuando sea necesario para proteger a las personas vulnerables\n\n\nSi algún miembro no respeta este código de conducta, puede conllevar la expulsión del taller de forma temporal o permanente. Para comunicar cualquier incumplimiento o incidencia relacionada con este código de conducta, cualquier persona puede ponerse en contacto con Francisco Rodríguez Sánchez (f.rodriguez.sanc@gmail.com), Irene Mendoza (irene.mendoza.sagrera@gmail.com) o Ignasi Bartomeus (nacho.bartomeus@gmail.com), garantizándose la confidencialidad.\nDocumento adaptado a partir del código de conducta de ROpenSci"
-  },
-  {
-    "objectID": "equipo/Nestor.html",
-    "href": "equipo/Nestor.html",
-    "title": "Néstor Pérez-Méndez",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
     "objectID": "equipo/Irene.html",
     "href": "equipo/Irene.html",
     "title": "Irene Mendoza",
@@ -49,16 +77,9 @@
     "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
   },
   {
-    "objectID": "equipo/Nacho.html",
-    "href": "equipo/Nacho.html",
-    "title": "Ignasi Bartomeus",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
-  },
-  {
-    "objectID": "equipo/Julen.html",
-    "href": "equipo/Julen.html",
-    "title": "Julen Astigarraga",
+    "objectID": "equipo/Nestor.html",
+    "href": "equipo/Nestor.html",
+    "title": "Néstor Pérez-Méndez",
     "section": "",
     "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
   },
@@ -70,45 +91,24 @@
     "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "equipo/Julen.html",
+    "href": "equipo/Julen.html",
+    "title": "Julen Astigarraga",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "equipo/Nacho.html",
+    "href": "equipo/Nacho.html",
+    "title": "Ignasi Bartomeus",
     "section": "",
-    "text": "Datasets\nSlides"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Desarrollo de paquetes de R útiles en ecología",
-    "section": "",
-    "text": "Proveer formación en herramientas de control de versiones y técnicas de programación colaborativa (git, GitHub, Quarto, etc)\nDesarrollar y publicar software (paquetes de R) de utilidad en ecología y medio ambiente\nPromover la ciencia abierta y reproducible en el campo de la ecología"
-  },
-  {
-    "objectID": "index.html#calendario",
-    "href": "index.html#calendario",
-    "title": "Desarrollo de paquetes de R útiles en ecología",
-    "section": "Calendario",
-    "text": "Calendario\nPrimera fase: 22 - 24 marzo 2023\nSegunda fase: mayo 2023 (fechas por determinar)"
-  },
-  {
-    "objectID": "index.html#financiación",
-    "href": "index.html#financiación",
-    "title": "Desarrollo de paquetes de R útiles en ecología",
-    "section": "Financiación",
-    "text": "Financiación\nEste taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por Francisco Rodríguez Sánchez y gestionado por la Universidad de Sevilla). La organización del taller cuenta además con la colaboración de la Asociación Española de Ecología Terrestre (AEET)."
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
   },
   {
     "objectID": "participantes.html",
     "href": "participantes.html",
     "title": "Desarrollo de paquetes de R útiles en ecología",
     "section": "",
-    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNéstor Pérez-Méndez\n\n\nIRTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\nCo-organizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\nCo-organizadora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNéstor Pérez-Méndez\n\n\nIRTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
