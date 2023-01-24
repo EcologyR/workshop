@@ -4,22 +4,18 @@ title: "Normas de funcionamiento"
 
 ## Preparativos
 
-- Cada asistente deberá confirmar su participación mediante [este formulario]() y el pago de la **cuota de inscripción** (50 euros) a través de la AEET **antes del 30 de enero** de 2023. La inscripción y asistencia al taller implica la aceptación y el cumplimiento del [código de conducta](codigo-de-conducta.qmd). Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados. 
+- La inscripción y asistencia al taller implica la aceptación y el cumplimiento del [código de conducta](codigo-de-conducta.qmd). Los participantes también se comprometen a trabajar en el desarrollo de los paquetes seleccionados y la escritura de manuscritos presentando los paquetes desarrollados. 
 
-- El taller se celebrará en dos fases. La primera fase se celebrará del **22 al 24 de marzo de 2023** en un [alojamiento rural]() cercano a Sevilla. La segunda fase se celebrará en mayo de 2023 (fechas por determinar). La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub.
-
-- Cada asistente deberá organizar y sufragar los viajes (ida y vuelta) desde su lugar de residencia hasta el lugar de celebración. <!--Todos los asistentes deberán estar presentes en el [lugar señalado](ADD) el miércoles 22 de marzo a las 16 horas. El taller finalizará el viernes 24 después de comer, sobre las 17 h. --> Alternativamente, se organizará un medio de transporte desde el centro de Sevilla (ida y vuelta), para aquellos que lo necesiten. 
-
-- Los gastos de alojamiento y manutención están cubiertos por la organización. Es posible que sea necesario compartir habitación en algunos casos (siempre en camas individuales). En caso de tener alergias alimentarias o dietas especiales, por favor comunicarlas a los organizadores debidamente.
+- El taller se celebrará en dos fases. La primera fase se celebrará del **22 al 24 de marzo** de 2023 en un [alojamiento rural](http://www.unedco.es/) cercano a Sevilla. La segunda fase se celebrará del **10 al 12 de mayo** de 2023. La inscripción al taller implica el compromiso de asistir de manera presencial, dentro de lo posible, a las dos fases previstas (marzo y mayo de 2023). En caso de no poder asistir por fuerza mayor, el participante habrá de participar via GitHub. La AEET entregará certificados de asistencia y participación a todos los que lo soliciten.
 
 - Cada asistente deberá traer su propio portátil con conexión wifi y con la última versión de R instalada.
 
 
 ## Formación
 
-El primer día (miércoles 22 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.
+- El primer día (miércoles 22 de marzo) se impartirá formación sobre el desarrollo de paquetes de R y el uso de git & GitHub para el control de versiones y la programación colaborativa.
 
-En la segunda fase (mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto.
+- En la segunda fase (10-12 mayo) se impartirá formación sobre escritura de manuscritos reproducibles utilizando Rmarkdown/Quarto.
 
 
 ## Desarrollo de paquetes
@@ -28,7 +24,7 @@ En la segunda fase (mayo) se impartirá formación sobre escritura de manuscrito
 
 - Todos los repositorios se alojarán inicialmente en una misma organización de GitHub (<https://github.com/EcologyR>) a la que tendrá acceso el equipo organizador. Idealmente todo el desarrollo se hará en abierto (repositorios públicos). En cualquier caso, todos los repositorios deberán ser públicos el 1 de junio de 2023. 
 
-- Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (*maintainer*). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (aut). Las que realicen contribuciones menores deberán figurar como *contributors* (ver <https://r-pkgs.org/description.html#author-who-are-you>). 
+- Solo serán autores del paquete y posterior manuscrito aquellas personas que hayan participado activamente en su desarrollo. Cada paquete deberá tener un responsable de su mantenimiento (*maintainer*). Las personas que contribuyan funciones, documentación, etc. de manera significativa serán autores (*aut*). Las que realicen contribuciones menores deberán figurar como *contributors* (ver <https://r-pkgs.org/description.html#author-who-are-you>). 
 
 - Todos los paquetes deberán tener una licencia de código abierto compatible con CRAN (ver <https://www.r-project.org/Licenses/>).
 
@@ -41,7 +37,6 @@ En la segunda fase (mayo) se impartirá formación sobre escritura de manuscrito
 
 - Aunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como *preprint* en un repositorio público (e.g. [EcoEvoRxiv](https://ecoevorxiv.org/)). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.
 
-- En todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades
-de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla). 
+- En todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla). 
 
 

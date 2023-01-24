@@ -2,6 +2,7 @@
 title: "Irene Mendoza"
 sortby: "3"
 subtitle: "EBD-CSIC"
+author: "Co-organizadora"
 image: https://avatars.githubusercontent.com/u/10706889?v=4
 toc: false
 about:

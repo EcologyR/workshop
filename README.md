@@ -2,8 +2,6 @@
 
 ## Objetivos
 
-Los **objetivos** de este taller son:
-
 - Proveer **formación** en herramientas de control de versiones y técnicas de programación colaborativa (git, GitHub, Quarto, etc)
 
 - Desarrollar y publicar **software** (paquetes de R) de utilidad en ecología y medio ambiente
@@ -15,11 +13,14 @@ Los **objetivos** de este taller son:
 
 **Primera fase**: 22 - 24 marzo 2023
 
-**Segunda fase**: mayo 2023 (fechas por determinar)
+**Segunda fase**: 10 - 12 mayo 2023 
 
 
 ## Financiación
 
-Este taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net)), y cuenta con la colaboración de la Asociación Española de Ecología Terrestre ([AEET](https://www.aeet.org)). 
+Este taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net) y gestionado por la Universidad de Sevilla). La organización del taller cuenta además con la colaboración de la Asociación Española de Ecología Terrestre ([AEET](https://www.aeet.org)). 
 
 ![](images/logos.png)
+
+![](images/logoAEET.png)
+
