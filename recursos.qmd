@@ -1,0 +1,9 @@
+---
+title: "Recursos"
+---
+
+- Desarrollo de paquetes: <https://r-pkgs.org/>
+
+- Escritura de funciones: <https://posit.cloud/learn/primers/6>
+
+- Introducción a GitHub: <https://github.com/skills/introduction-to-github>
