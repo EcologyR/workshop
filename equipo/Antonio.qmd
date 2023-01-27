@@ -1,0 +1,34 @@
+---
+title: "Antonio Pérez Luque"
+sortby: 10
+subtitle: "EEZ-CSIC"
+image: https://ajperezluque.com/author/antonio-j.-perez-luque/avatar2_hu0a5980fba1c4657cff2716a2ce781c30_60956_270x270_fill_q75_lanczos_center.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://ajperezluque.com
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=_2VwSg0AAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/ajpelu
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/ajpelu
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

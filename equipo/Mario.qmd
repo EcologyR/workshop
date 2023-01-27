@@ -1,0 +1,34 @@
+---
+title: "Mario Garrido"
+sortby: "7"
+subtitle: "Universidad de Granada"
+image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nb6xtuQAAAAJ&citpid=5
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://orcid.org/0000-0001-7899-8913
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=nb6xtuQAAAAJ
+    # - icon: github
+    #   text: github
+    #   href: https://www.github.com/nestorperez
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/gaiarrido
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://ecoevo.social/@ibartomeus
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

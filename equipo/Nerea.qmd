@@ -1,0 +1,34 @@
+---
+title: "Nerea Piñeiro Juncal"
+sortby: "8"
+subtitle: "Universidad de Santiago de Compostela"
+image: http://www.cesam.ua.pt/images/whatsapp_image_2022_10_26_at_11.28.11.jpeg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: http://www.cesam.ua.pt/index.php?menu=666&language=eng&tabela=pessoaldetail&user=2932
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=EuJP3YQAAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/NPJuncal
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/NPJuncal
+    - icon: mastodon
+      text: mastodon
+      href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

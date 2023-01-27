@@ -1,0 +1,34 @@
+---
+title: "Ana Márcia Enes Barbosa"
+sortby: "9"
+subtitle: "Freelance"
+image: https://modtools.files.wordpress.com/2019/03/ambarbosa_byritacarmo_cienciaviva.jpg?w=284&h=286
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://modtools.wordpress.com/barbosa/
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=66awMnEAAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/AMBarbosa
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/AMarciaBarbosa
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+

@@ -1,0 +1,34 @@
+---
+title: "Verónica Cruz-Alonso"
+sortby: "6"
+subtitle: "Universidad Complutense"
+image: Vero.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.researchgate.net/profile/Veronica-Cruz-Alonso
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=mdktyS4AAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/VeruGHub
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Veruitter
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+
