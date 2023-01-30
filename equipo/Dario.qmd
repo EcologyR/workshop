@@ -2,7 +2,7 @@
 title: "Darío San Segundo Molina"
 sortby: 15
 subtitle: "Universidad de Alcalá de Henares"
-image: https://pbs.twimg.com/profile_images/1616128722297405451/RnbONSAH_400x400.jpg
+image: Dario.jpg
 toc: false
 about:
   id: person-profile
