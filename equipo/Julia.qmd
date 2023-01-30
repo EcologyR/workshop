@@ -1,8 +1,8 @@
 ---
 title: "Julia G. de Aledo"
 sortby: 14
-subtitle: "Universidad Rey Juan Carlos"
-image: https://juliagdealedo.github.io/img/author.jpg
+subtitle: "Universidad Autónoma de Madrid"
+image: https://juliagdealedo.github.io/about/profile.png
 toc: false
 about:
   id: person-profile
