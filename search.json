@@ -84,6 +84,13 @@
     "text": "Manuscritos\n\nEn la segunda fase del taller (mayo de 2023) se trabajará en la redacción de manuscritos presentando los paquetes desarrollados. Idealmente tanto los paquetes desarrollados como los manuscritos deberán estar completados durante el año 2023.\nAunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como preprint en un repositorio público (e.g. EcoEvoRxiv). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.\nEn todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla)."
   },
   {
+    "objectID": "equipo/Julia.html",
+    "href": "equipo/Julia.html",
+    "title": "Julia G. de Aledo",
+    "section": "",
+    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
     "objectID": "equipo/Irene.html",
     "href": "equipo/Irene.html",
     "title": "Irene Mendoza",
@@ -161,6 +168,13 @@
     "text": "website\n  \n  \n    \n     scholar"
   },
   {
+    "objectID": "equipo/Ignacio.html",
+    "href": "equipo/Ignacio.html",
+    "title": "Ignacio Ramos Gutiérrez",
+    "section": "",
+    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
     "objectID": "equipo/Alicia.html",
     "href": "equipo/Alicia.html",
     "title": "Alicia Montesinos",
@@ -172,6 +186,6 @@
     "href": "participantes.html",
     "title": "Desarrollo de paquetes de R útiles en ecología",
     "section": "",
-    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\nCo-organizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\nCo-organizadora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNéstor Pérez-Méndez\n\n\nIRTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz-Alonso\n\n\nUniversidad Complutense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMario Garrido\n\n\nUniversidad de Granada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNerea Piñeiro Juncal\n\n\nUniversidad de Santiago de Compostela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Márcia Enes Barbosa\n\n\nFreelance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Pérez Luque\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlicia Montesinos\n\n\nCIDE-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosé Luis Garrido\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\nCo-organizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\nCo-organizadora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNéstor Pérez-Méndez\n\n\nIRTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz-Alonso\n\n\nUniversidad Complutense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMario Garrido\n\n\nUniversidad de Granada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNerea Piñeiro Juncal\n\n\nUniversidad de Santiago de Compostela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Márcia Enes Barbosa\n\n\nFreelance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Pérez Luque\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlicia Montesinos\n\n\nCIDE-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosé Luis Garrido\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia G. de Aledo\n\n\nUniversidad Rey Juan Carlos\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
