@@ -1,0 +1,34 @@
+---
+title: "Ona Deulofeu"
+sortby: 16
+subtitle: "ICM-CSIC"
+image: https://emm.icm.csic.es/wp-content/uploads/2020/11/20180501_crop.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: http://emm.icm.csic.es/group-members-2-2/#
+    # - icon: mortarboard
+    #   text: scholar
+    #   href: https://scholar.google.es/citations?hl=en&user=ppi422gAAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/onadeulofeu
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/OnaDeulofeu
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+
