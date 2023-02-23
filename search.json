@@ -1,10 +1,129 @@
 [
   {
-    "objectID": "programa.html",
-    "href": "programa.html",
-    "title": "Programa",
+    "objectID": "codigo-de-conducta.html",
+    "href": "codigo-de-conducta.html",
+    "title": "Código de conducta",
     "section": "",
-    "text": "Miércoles 22 - Viernes 24 de marzo\n\n\n\n\n\n\n\n\n\nMañana\nTarde\n\n\n\n\nM\n\nPresentación\nDefinición proyectos\n\n\nTaller git & GitHub\nTaller paquetes R\n\n\n\nJ\nProgramación paquetes\nProgramación paquetes\n\n\nV\nProgramación paquetes\nVuelta a Sevilla/casa"
+    "text": "La celebración de este taller pretende aglutinar una comunidad abierta, formada por personas con un conjunto diverso de habilidades, personalidades y experiencias. Todos los participantes están obligados a seguir este código de conducta, para que la participación en la comunidad sea positiva, segura, inclusiva y exitosa para todos. En términos generales, la participación en esta comunidad debe ser\n\nRespetuosa: Respetamos a los demás, sus opiniones, sus habilidades, sus compromisos y sus esfuerzos. Respetamos los procesos establecidos en la comunidad y trabajamos dentro de ellos. Cuando no estamos de acuerdo, somos educados y respetuosos al plantear nuestros problemas.\nAbierta: los miembros de la comunidad están abiertos a la colaboración. Somos receptivos a los comentarios y críticas constructivas. Fomentamos un entorno en el que todos puedan participar.\nNo toleramos el acoso en ninguna forma, incluyendo:\n\nComentarios ofensivos relacionados con género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión (o falta de ellos), o preferencias tecnológicas\nComentarios no deseados con respecto al estilo de vida de una persona, incluidos los relacionados con la alimentación, la salud, la crianza de los hijos, las drogas o el empleo\nInterrupción sostenida o voluntaria de discusiones, charlas u otros eventos.\nIntimidación deliberada\nInsistencia en la comunicación personal después de las solicitudes de cese.\nFotografía o grabación no deseada\nContacto social inapropiado, como solicitar/asumir niveles inapropiados de intimidad con otros\nContacto físico inapropiado sin consentimiento\nAmenazas de violencia o incitación a la violencia contra cualquier persona\nUso de imágenes, comentarios o chistes sexuales o discriminatorios\nPublicación de información sobre cualquier aspecto de la identidad de una persona sin su consentimiento, excepto cuando sea necesario para proteger a las personas vulnerables\nPublicación de comunicación privada, excepto cuando sea necesario para proteger a las personas vulnerables\n\n\nSi algún miembro no respeta este código de conducta, puede conllevar la expulsión del taller de forma temporal o permanente. Para comunicar cualquier incumplimiento o incidencia relacionada con este código de conducta, cualquier persona puede ponerse en contacto con Francisco Rodríguez Sánchez (f.rodriguez.sanc@gmail.com), Irene Mendoza (irene.mendoza.sagrera@gmail.com) o Ignasi Bartomeus (nacho.bartomeus@gmail.com), garantizándose la confidencialidad.\nDocumento adaptado a partir del código de conducta de ROpenSci"
+  },
+  {
+    "objectID": "equipo/Marcia.html",
+    "href": "equipo/Marcia.html",
+    "title": "Ana Márcia Enes Barbosa",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Ona.html",
+    "href": "equipo/Ona.html",
+    "title": "Ona Deulofeu",
+    "section": "",
+    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Nerea.html",
+    "href": "equipo/Nerea.html",
+    "title": "Nerea Piñeiro Juncal",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
+  },
+  {
+    "objectID": "equipo/Ignacio.html",
+    "href": "equipo/Ignacio.html",
+    "title": "Ignacio Ramos Gutiérrez",
+    "section": "",
+    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Antonio.html",
+    "href": "equipo/Antonio.html",
+    "title": "Antonio Pérez Luque",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Nacho.html",
+    "href": "equipo/Nacho.html",
+    "title": "Ignasi Bartomeus",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
+  },
+  {
+    "objectID": "equipo/Irene.html",
+    "href": "equipo/Irene.html",
+    "title": "Irene Mendoza",
+    "section": "",
+    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Dario.html",
+    "href": "equipo/Dario.html",
+    "title": "Darío San Segundo Molina",
+    "section": "",
+    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/JLGarrido.html",
+    "href": "equipo/JLGarrido.html",
+    "title": "José Luis Garrido",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar"
+  },
+  {
+    "objectID": "equipo/Julen.html",
+    "href": "equipo/Julen.html",
+    "title": "Julen Astigarraga",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Alicia.html",
+    "href": "equipo/Alicia.html",
+    "title": "Alicia Montesinos",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar"
+  },
+  {
+    "objectID": "equipo/Julia.html",
+    "href": "equipo/Julia.html",
+    "title": "Julia G. de Aledo",
+    "section": "",
+    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/Vero.html",
+    "href": "equipo/Vero.html",
+    "title": "Verónica Cruz-Alonso",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+  },
+  {
+    "objectID": "equipo/FRS.html",
+    "href": "equipo/FRS.html",
+    "title": "Francisco Rodríguez-Sánchez",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
+  },
+  {
+    "objectID": "participantes.html",
+    "href": "participantes.html",
+    "title": "Desarrollo de paquetes de R útiles en ecología",
+    "section": "",
+    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\nCo-organizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\nCo-organizadora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz-Alonso\n\n\nUniversidad Complutense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNerea Piñeiro Juncal\n\n\nUniversidad de Santiago de Compostela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Márcia Enes Barbosa\n\n\nFreelance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Pérez Luque\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlicia Montesinos\n\n\nCIDE-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosé Luis Garrido\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia G. de Aledo\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDarío San Segundo Molina\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOna Deulofeu\n\n\nICM-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Recursos",
+    "section": "",
+    "text": "Desarrollo de paquetes: https://r-pkgs.org/\nEscritura de funciones: https://posit.cloud/learn/primers/6\nIntroducción a GitHub: https://github.com/skills/introduction-to-github"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "index.html",
@@ -28,25 +147,11 @@
     "text": "Financiación\nEste taller ha sido financiado por el Fondo Europeo de Desarrollo Regional (FEDER) y por la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía (proyecto US-1381388 liderado por Francisco Rodríguez Sánchez y gestionado por la Universidad de Sevilla). La organización del taller cuenta además con la colaboración de la Asociación Española de Ecología Terrestre (AEET)."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
-  },
-  {
-    "objectID": "recursos.html",
-    "href": "recursos.html",
-    "title": "Recursos",
-    "section": "",
-    "text": "Desarrollo de paquetes: https://r-pkgs.org/\nEscritura de funciones: https://posit.cloud/learn/primers/6\nIntroducción a GitHub: https://github.com/skills/introduction-to-github"
-  },
-  {
-    "objectID": "codigo-de-conducta.html",
-    "href": "codigo-de-conducta.html",
-    "title": "Código de conducta",
-    "section": "",
-    "text": "La celebración de este taller pretende aglutinar una comunidad abierta, formada por personas con un conjunto diverso de habilidades, personalidades y experiencias. Todos los participantes están obligados a seguir este código de conducta, para que la participación en la comunidad sea positiva, segura, inclusiva y exitosa para todos. En términos generales, la participación en esta comunidad debe ser\n\nRespetuosa: Respetamos a los demás, sus opiniones, sus habilidades, sus compromisos y sus esfuerzos. Respetamos los procesos establecidos en la comunidad y trabajamos dentro de ellos. Cuando no estamos de acuerdo, somos educados y respetuosos al plantear nuestros problemas.\nAbierta: los miembros de la comunidad están abiertos a la colaboración. Somos receptivos a los comentarios y críticas constructivas. Fomentamos un entorno en el que todos puedan participar.\nNo toleramos el acoso en ninguna forma, incluyendo:\n\nComentarios ofensivos relacionados con género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión (o falta de ellos), o preferencias tecnológicas\nComentarios no deseados con respecto al estilo de vida de una persona, incluidos los relacionados con la alimentación, la salud, la crianza de los hijos, las drogas o el empleo\nInterrupción sostenida o voluntaria de discusiones, charlas u otros eventos.\nIntimidación deliberada\nInsistencia en la comunicación personal después de las solicitudes de cese.\nFotografía o grabación no deseada\nContacto social inapropiado, como solicitar/asumir niveles inapropiados de intimidad con otros\nContacto físico inapropiado sin consentimiento\nAmenazas de violencia o incitación a la violencia contra cualquier persona\nUso de imágenes, comentarios o chistes sexuales o discriminatorios\nPublicación de información sobre cualquier aspecto de la identidad de una persona sin su consentimiento, excepto cuando sea necesario para proteger a las personas vulnerables\nPublicación de comunicación privada, excepto cuando sea necesario para proteger a las personas vulnerables\n\n\nSi algún miembro no respeta este código de conducta, puede conllevar la expulsión del taller de forma temporal o permanente. Para comunicar cualquier incumplimiento o incidencia relacionada con este código de conducta, cualquier persona puede ponerse en contacto con Francisco Rodríguez Sánchez (f.rodriguez.sanc@gmail.com), Irene Mendoza (irene.mendoza.sagrera@gmail.com) o Ignasi Bartomeus (nacho.bartomeus@gmail.com), garantizándose la confidencialidad.\nDocumento adaptado a partir del código de conducta de ROpenSci"
+    "text": "Miércoles 22 - Viernes 24 de marzo\n\n\n\n\n\n\n\n\n\nMañana\nTarde\n\n\n\n\nM\n\nPresentación\nDefinición proyectos\n\n\nTaller git & GitHub\nTaller paquetes R\n\n\n\nJ\nProgramación paquetes\nProgramación paquetes\n\n\nV\nProgramación paquetes\nVuelta a Sevilla/casa"
   },
   {
     "objectID": "materials.html",
@@ -82,124 +187,5 @@
     "title": "Normas de funcionamiento",
     "section": "Manuscritos",
     "text": "Manuscritos\n\nEn la segunda fase del taller (mayo de 2023) se trabajará en la redacción de manuscritos presentando los paquetes desarrollados. Idealmente tanto los paquetes desarrollados como los manuscritos deberán estar completados durante el año 2023.\nAunque la elección de la revista es libre, todos los manuscritos deberán ser publicados como preprint en un repositorio público (e.g. EcoEvoRxiv). No existen fondos específicos para sufragar gastos de publicación, aunque los autores pueden explorar otras vías de financiación.\nEn todos los repositorios y manuscritos deberá mencionarse como entidades financiadoras al Fondo Europeo de Desarrollo Regional (FEDER) y a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades de la Junta de Andalucía, dentro del Programa Operativo FEDER 2014-2020 (proyecto US-1381388 liderado por Francisco Rodríguez-Sánchez, Universidad de Sevilla)."
-  },
-  {
-    "objectID": "equipo/Julia.html",
-    "href": "equipo/Julia.html",
-    "title": "Julia G. de Aledo",
-    "section": "",
-    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Irene.html",
-    "href": "equipo/Irene.html",
-    "title": "Irene Mendoza",
-    "section": "",
-    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Nestor.html",
-    "href": "equipo/Nestor.html",
-    "title": "Néstor Pérez-Méndez",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/FRS.html",
-    "href": "equipo/FRS.html",
-    "title": "Francisco Rodríguez-Sánchez",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
-  },
-  {
-    "objectID": "equipo/Dario.html",
-    "href": "equipo/Dario.html",
-    "title": "Darío San Segundo Molina",
-    "section": "",
-    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Nerea.html",
-    "href": "equipo/Nerea.html",
-    "title": "Nerea Piñeiro Juncal",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
-  },
-  {
-    "objectID": "equipo/Mario.html",
-    "href": "equipo/Mario.html",
-    "title": "Mario Garrido",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Vero.html",
-    "href": "equipo/Vero.html",
-    "title": "Verónica Cruz-Alonso",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Antonio.html",
-    "href": "equipo/Antonio.html",
-    "title": "Antonio Pérez Luque",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Ona.html",
-    "href": "equipo/Ona.html",
-    "title": "Ona Deulofeu",
-    "section": "",
-    "text": "website\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Marcia.html",
-    "href": "equipo/Marcia.html",
-    "title": "Ana Márcia Enes Barbosa",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Julen.html",
-    "href": "equipo/Julen.html",
-    "title": "Julen Astigarraga",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Nacho.html",
-    "href": "equipo/Nacho.html",
-    "title": "Ignasi Bartomeus",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n  \n    \n     mastodon"
-  },
-  {
-    "objectID": "equipo/JLGarrido.html",
-    "href": "equipo/JLGarrido.html",
-    "title": "José Luis Garrido",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar"
-  },
-  {
-    "objectID": "equipo/Ignacio.html",
-    "href": "equipo/Ignacio.html",
-    "title": "Ignacio Ramos Gutiérrez",
-    "section": "",
-    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
-  },
-  {
-    "objectID": "equipo/Alicia.html",
-    "href": "equipo/Alicia.html",
-    "title": "Alicia Montesinos",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar"
-  },
-  {
-    "objectID": "participantes.html",
-    "href": "participantes.html",
-    "title": "Desarrollo de paquetes de R útiles en ecología",
-    "section": "",
-    "text": "Francisco Rodríguez-Sánchez\n\n\nUniversidad de Sevilla\n\n\n\nOrganizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\nEBD-CSIC\n\n\n\nCo-organizador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrene Mendoza\n\n\nEBD-CSIC\n\n\n\nCo-organizadora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNéstor Pérez-Méndez\n\n\nIRTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz-Alonso\n\n\nUniversidad Complutense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMario Garrido\n\n\nUniversidad de Granada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNerea Piñeiro Juncal\n\n\nUniversidad de Santiago de Compostela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Márcia Enes Barbosa\n\n\nFreelance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Pérez Luque\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlicia Montesinos\n\n\nCIDE-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJosé Luis Garrido\n\n\nEEZ-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia G. de Aledo\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDarío San Segundo Molina\n\n\nUniversidad de Alcalá de Henares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOna Deulofeu\n\n\nICM-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

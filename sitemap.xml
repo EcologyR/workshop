@@ -1,99 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/EcologyR/workshop/programa.html</loc>
-    <lastmod>2023-02-01T17:03:28.229Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/index.html</loc>
-    <lastmod>2023-02-01T17:03:29.049Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/schedule.html</loc>
-    <lastmod>2023-02-01T17:03:29.421Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/recursos.html</loc>
-    <lastmod>2023-02-01T17:03:29.773Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/EcologyR/workshop/codigo-de-conducta.html</loc>
-    <lastmod>2023-02-01T17:03:30.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/materials.html</loc>
-    <lastmod>2023-02-01T17:03:30.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/funcionamiento.html</loc>
-    <lastmod>2023-02-01T17:03:30.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Julia.html</loc>
-    <lastmod>2023-02-01T17:03:31.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Irene.html</loc>
-    <lastmod>2023-02-01T17:03:31.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Nestor.html</loc>
-    <lastmod>2023-02-01T17:03:32.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/FRS.html</loc>
-    <lastmod>2023-02-01T17:03:32.413Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Dario.html</loc>
-    <lastmod>2023-02-01T17:03:32.753Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Nerea.html</loc>
-    <lastmod>2023-02-01T17:03:33.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Mario.html</loc>
-    <lastmod>2023-02-01T17:03:33.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Vero.html</loc>
-    <lastmod>2023-02-01T17:03:33.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Antonio.html</loc>
-    <lastmod>2023-02-01T17:03:34.193Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Ona.html</loc>
-    <lastmod>2023-02-01T17:03:34.533Z</lastmod>
+    <lastmod>2023-02-23T17:23:02.671Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/equipo/Marcia.html</loc>
-    <lastmod>2023-02-01T17:03:34.885Z</lastmod>
+    <lastmod>2023-02-23T17:23:03.483Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Julen.html</loc>
-    <lastmod>2023-02-01T17:03:35.237Z</lastmod>
+    <loc>https://github.com/EcologyR/workshop/equipo/Ona.html</loc>
+    <lastmod>2023-02-23T17:23:03.879Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/Nacho.html</loc>
-    <lastmod>2023-02-01T17:03:35.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EcologyR/workshop/equipo/JLGarrido.html</loc>
-    <lastmod>2023-02-01T17:03:35.953Z</lastmod>
+    <loc>https://github.com/EcologyR/workshop/equipo/Nerea.html</loc>
+    <lastmod>2023-02-23T17:23:04.291Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/equipo/Ignacio.html</loc>
-    <lastmod>2023-02-01T17:03:36.305Z</lastmod>
+    <lastmod>2023-02-23T17:23:04.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Antonio.html</loc>
+    <lastmod>2023-02-23T17:23:05.023Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Nacho.html</loc>
+    <lastmod>2023-02-23T17:23:05.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Irene.html</loc>
+    <lastmod>2023-02-23T17:23:05.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Dario.html</loc>
+    <lastmod>2023-02-23T17:23:06.127Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/JLGarrido.html</loc>
+    <lastmod>2023-02-23T17:23:06.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Julen.html</loc>
+    <lastmod>2023-02-23T17:23:06.915Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/equipo/Alicia.html</loc>
-    <lastmod>2023-02-01T17:03:36.657Z</lastmod>
+    <lastmod>2023-02-23T17:23:07.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Julia.html</loc>
+    <lastmod>2023-02-23T17:23:07.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/Vero.html</loc>
+    <lastmod>2023-02-23T17:23:07.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/equipo/FRS.html</loc>
+    <lastmod>2023-02-23T17:23:08.367Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EcologyR/workshop/participantes.html</loc>
-    <lastmod>2023-02-01T17:03:37.257Z</lastmod>
+    <lastmod>2023-02-23T17:23:08.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/recursos.html</loc>
+    <lastmod>2023-02-23T17:23:09.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/schedule.html</loc>
+    <lastmod>2023-02-23T17:23:09.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/index.html</loc>
+    <lastmod>2023-02-23T17:23:09.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/programa.html</loc>
+    <lastmod>2023-02-23T17:23:10.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/materials.html</loc>
+    <lastmod>2023-02-23T17:23:10.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EcologyR/workshop/funcionamiento.html</loc>
+    <lastmod>2023-02-23T17:23:11.115Z</lastmod>
   </url>
 </urlset>
