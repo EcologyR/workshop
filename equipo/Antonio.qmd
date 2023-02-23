@@ -2,7 +2,7 @@
 title: "Antonio Pérez Luque"
 sortby: 10
 subtitle: "EEZ-CSIC"
-image: https://ajperezluque.com/author/antonio-j.-perez-luque/avatar2_hu0a5980fba1c4657cff2716a2ce781c30_60956_270x270_fill_q75_lanczos_center.jpg
+image: https://avatars.githubusercontent.com/u/6410962?v=4
 toc: false
 about:
   id: person-profile
