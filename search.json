@@ -130,7 +130,7 @@
     "href": "recursos.html",
     "title": "Recursos",
     "section": "",
-    "text": "Desarrollo de paquetes: https://r-pkgs.org/\nEscritura de funciones: https://posit.cloud/learn/primers/6\nIntroducción a GitHub: https://github.com/skills/introduction-to-github"
+    "text": "Desarrollo de paquetes:\n\nhttps://r-pkgs.org\nhttps://devguide.ropensci.org/\nhttps://books.ropensci.org/http-testing/index.html\n\nEscritura de funciones: https://posit.cloud/learn/primers/6\nIntroducción a GitHub: https://github.com/skills/introduction-to-github"
   },
   {
     "objectID": "schedule.html",
