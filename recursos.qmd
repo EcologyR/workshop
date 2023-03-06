@@ -2,7 +2,10 @@
 title: "Recursos"
 ---
 
-- Desarrollo de paquetes: <https://r-pkgs.org/>
+- Desarrollo de paquetes: 
+  - <https://r-pkgs.org>
+  - <https://devguide.ropensci.org/>
+  - <https://books.ropensci.org/http-testing/index.html>
 
 - Escritura de funciones: <https://posit.cloud/learn/primers/6>
 
