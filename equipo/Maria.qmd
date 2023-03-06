@@ -1,0 +1,34 @@
+---
+title: "María Sánchez"
+sortby: 16
+subtitle: "Universidad Pablo de Olavide"
+image: https://avatars.githubusercontent.com/u/122529895?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    # - icon: link
+    #   text: website
+    #   href: https://www.jlgarridosanchez.com/
+    # - icon: mortarboard
+    #   text: scholar
+    #   href: https://scholar.google.es/citations?hl=en&user=ppi422gAAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/melondria
+    # - icon: twitter
+    #   text: twitter
+    #   href: https://twitter.com/iramosgutierrez
+    # - icon: mastodon
+    #   text: mastodon
+    #   href: https://fediscience.org/@NPJuncal
+
+---
+
+:::{#person-profile}
+:::
+
+
+
+
