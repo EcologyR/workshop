@@ -7,6 +7,9 @@ title: "Recursos"
   - <https://devguide.ropensci.org/>
   - <https://books.ropensci.org/http-testing/index.html>
 
-- Escritura de funciones: <https://posit.cloud/learn/primers/6>
+- Escritura de funciones: 
+  - <https://posit.cloud/learn/primers/6>
+  - <https://r4ds.had.co.nz/functions.html>
+  - <https://adv-r.hadley.nz/>
 
 - Introducción a GitHub: <https://github.com/skills/introduction-to-github>
