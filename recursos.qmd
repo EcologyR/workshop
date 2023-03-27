@@ -2,14 +2,32 @@
 title: "Recursos"
 ---
 
+- Git & GitHub:
+  - Introducción a GitHub: <https://github.com/skills/introduction-to-github>
+  - Taller git & GitHub: <https://github.com/Julenasti/intro_git-github>
+
 - Desarrollo de paquetes: 
   - <https://r-pkgs.org>
   - <https://devguide.ropensci.org/>
   - <https://books.ropensci.org/http-testing/index.html>
+  - <https://github.com/IndrajeetPatil/awesome-r-pkgtools>
 
 - Escritura de funciones: 
   - <https://posit.cloud/learn/primers/6>
   - <https://r4ds.had.co.nz/functions.html>
   - <https://adv-r.hadley.nz/>
+  
+- Publicación en CRAN:
+  - <https://r-pkgs.org/release.html>
+  - <https://github.com/ThinkR-open/prepare-for-cran>
+  - <https://github.com/johnmackintosh/CRANt-touch-this>
 
-- Introducción a GitHub: <https://github.com/skills/introduction-to-github>
+- R-universe:
+  - <https://r-universe.dev>
+  
+- Quarto:
+  - <https://quarto.org/>
+  - <https://github.com/mcanouil/awesome-quarto>
+
+
+

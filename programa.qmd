@@ -7,8 +7,8 @@ Miércoles 22 - Viernes 24 de marzo
 +---------------+--------------------------+--------------------------+
 |               | Mañana                   | Tarde                    |
 +:=============:+:========================:+:========================:+
-| M             | - Presentación           | -   Taller git & GitHub  |
-|               | - Definición proyectos   | -   Taller paquetes R    |
+| M             | Presentación             | Taller git & GitHub      |
+|               | Definición proyectos     | Taller paquetes R        |
 +---------------+--------------------------+--------------------------+
 | J             | Programación paquetes    | Programación paquetes    |
 +---------------+--------------------------+--------------------------+
