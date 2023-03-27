@@ -6,7 +6,7 @@ website:
   title: "Desarrollo de paquetes de R útiles en ecología"
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "images/logoEcologyR.png"
     pinned: true
     align: center
     tools:
