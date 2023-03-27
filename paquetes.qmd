@@ -1,0 +1,15 @@
+---
+title: "Paquetes"
+---
+
+[mappestRisk](https://github.com/EcologyR/mappestRisk): Making forecast maps of pest occurrence risk
+
+[BlueCarbon](https://github.com/EcologyR/BlueCarbon): Facilitate the estimation of organic carbon stocks and fluxes from soil/sediment cores from blue carbon ecosystems 
+
+[RecruitnetP](https://github.com/EcologyR/RecruitnetP): Analysis of plant recruitment facilitation networks
+
+[labeleR](https://github.com/EcologyR/labeleR): Easily create labels, certificates, and much more, from R
+
+[Bloomers](https://github.com/EcologyR/Bloomers): Detect and identify potential bloomers in microbial communities
+
+[resilience](https://github.com/EcologyR/resilience): Calculate resilience indices for ecological systems

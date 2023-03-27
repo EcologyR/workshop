@@ -19,6 +19,8 @@ website:
         text: Home
       - href: participantes.qmd
         text: Participantes
+      - href: paquetes.qmd
+        text: Paquetes
       - href: programa.qmd
       - href: funcionamiento.qmd
         text: Funcionamiento
