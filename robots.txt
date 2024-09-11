@@ -1,1 +1,1 @@
-Sitemap: https://github.com/EcologyR/workshop/sitemap.xml
+Sitemap: https://EcologyR.github.io/workshop/sitemap.xml
